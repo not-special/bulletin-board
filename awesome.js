@@ -1,1 +1,1 @@
-console.log('GIT IS AWESOME!')
+console.log('GIT IS AWESOME!');
