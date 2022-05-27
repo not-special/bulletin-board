@@ -9,3 +9,5 @@ A static site for practicing GitHub collaboration
 4. Create a pull request on the GitHub UI
 5. Wait for insightful comments from your teammates :)
 6. Celebrate with thumbs up with your teammates 
+
+# Test
