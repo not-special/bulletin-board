@@ -11,4 +11,4 @@ A static site for practicing GitHub collaboration
 6. Celebrate with thumbs up with your teammates 
 
 # Test
-This is another test.
+This is another test
